@@ -30,7 +30,7 @@ export default function Home() {
             <span className="text-amber-700">디어베이지</span>
           </h1>
           <p className="mx-auto mb-10 max-w-2xl text-lg text-gray-600">
-            우리는 일상 속의 작은 즐거움을 디지털로 구현합니다. <br />
+            우리는 일상 속의 작은 즐거움을 디지털로 구현합니다.<br />
             디어베이지의 첫 번째 프로젝트, 말랑스캐치를 만나보세요.
           </p>
           <div className="inline-block rounded-2xl bg-white p-2 shadow-[0_4px_20px_rgba(0,0,0,0.05)]">
