@@ -136,7 +136,7 @@ export default function Home() {
           </h2>
           <div className="h-96 overflow-y-scroll rounded-xl border border-gray-100 bg-white p-8 text-sm leading-relaxed text-gray-600 shadow-sm">
             <p className="mb-4">
-              <strong>최종 수정일: 2024년 5월 20일</strong>
+              <strong>최종 수정일: 2026년 4월 23일</strong>
             </p>
             <p className="mb-4">
               디어베이지(이하 &apos;회사&apos;)는 사용자의 개인정보를 소중하게
