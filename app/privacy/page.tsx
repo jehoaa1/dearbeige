@@ -12,7 +12,7 @@ export default function PrivacyPage() {
           </p>
           <p>
             디어베이지(이하 &apos;회사&apos;)는 사용자의 개인정보를 소중하게
-            보호합니다. 본 정책은 &apos;말랑스캐치&apos; 서비스 이용 시 발생할 수
+            보호합니다. 본 정책은 &apos;말랑스케치&apos; 서비스 이용 시 발생할 수
             있는 데이터 처리에 대해 설명합니다.
           </p>
 

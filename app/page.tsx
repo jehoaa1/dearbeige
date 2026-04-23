@@ -31,7 +31,7 @@ export default function Home() {
           </h1>
           <p className="mx-auto mb-10 max-w-2xl text-lg text-gray-600">
             우리는 일상 속의 작은 즐거움을 디지털로 구현합니다.<br />
-            디어베이지의 첫 번째 프로젝트, 말랑스캐치를 만나보세요.
+            디어베이지의 첫 번째 프로젝트, 말랑스케치를 만나보세요.
           </p>
           <div className="inline-block rounded-2xl bg-white p-2 shadow-[0_4px_20px_rgba(0,0,0,0.05)]">
             <img
@@ -50,9 +50,9 @@ export default function Home() {
               <span className="text-sm font-bold tracking-widest text-amber-600 uppercase">
                 Featured App
               </span>
-              <h2 className="mt-2 mb-6 text-3xl font-bold">말랑스캐치</h2>
+              <h2 className="mt-2 mb-6 text-3xl font-bold">말랑스케치</h2>
               <p className="mb-6 leading-relaxed text-gray-600">
-                누구나 쉽게 예술가가 될 수 있습니다. 말랑스캐치는 가로형
+                누구나 쉽게 예술가가 될 수 있습니다. 말랑스케치는 가로형
                 캔버스에서 단순하고 직관적인 드로잉 경험을 제공합니다. 복잡한
                 과정 없이 즉시 시작하여 당신의 상상을 캔버스에 담아보세요.
               </p>
@@ -140,7 +140,7 @@ export default function Home() {
             </p>
             <p className="mb-4">
               디어베이지(이하 &apos;회사&apos;)는 사용자의 개인정보를 소중하게
-              보호합니다. 본 정책은 &apos;말랑스캐치&apos; 서비스 이용 시 발생할
+              보호합니다. 본 정책은 &apos;말랑스케치&apos; 서비스 이용 시 발생할
               수 있는 데이터 처리에 대해 설명합니다.
             </p>
 
